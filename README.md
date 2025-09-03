@@ -1,6 +1,6 @@
 # Shade Map
 Implement an application that can calculate the “shadow path” in Vancouver:
-Based on the Scientific Reports paper “CoolWalks for active mobility in urban street networks” that you provided, together with related technical research, this is entirely feasible. The following describes the required work and process:
+Based on the Scientific Reports paper “CoolWalks for active mobility in urban street networks”, the following describes the required work and process:
 
 1. Technical Overview and Theoretical Foundations
 The paper proposes a CoolWalkability index and a path selection model. Using street network and building footprint data, it parameterizes a “sun avoidance preference” (α) to measure the degree of shading along the route and walking comfort. (Referenced sources: arXiv, IT University of Copenhagen.)
