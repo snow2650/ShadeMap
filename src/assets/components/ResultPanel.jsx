@@ -5,7 +5,7 @@ import { Badge } from "@/components/ui/badge";
 import { Route, Clock, MapPin, Save, Eye } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
 
-export default function RouteResults({ 
+export default function RoutePanel({ 
   routes, 
   selectedRoute, 
   onSelectRoute, 
